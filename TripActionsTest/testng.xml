@@ -1,0 +1,13 @@
+ <suite name="LABooking">
+ 
+ 	<test name="bookLARoom">
+ 	
+ 		<classes>
+ 	
+ 			<class name="com.booking.tripActionsTest.TestBookRoom" />
+ 	
+ 		</classes>
+ 	
+ 	</test>
+
+</suite>
